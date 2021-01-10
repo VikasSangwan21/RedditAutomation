@@ -55,7 +55,7 @@
 </head>
 <body>
 <img src="file://resultlogopathhere" alt="Automation Logo" width="1000" height="100">
-<h2>InBranch Test Case Execution Result</h2>
+<h2>Test Suite Execution Result</h2>
 
 
 <table id="summary">
